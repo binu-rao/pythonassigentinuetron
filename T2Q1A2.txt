@@ -1,0 +1,5 @@
+a = input("Enter a word ",)
+print(a[::-1])
+
+Enter a word nidhi
+ihdin

@@ -1,0 +1,11 @@
+Q4:
+Sol:
+d=12
+r=d/2
+pi = 3.14
+V=4/3*pi*r**3
+print("valoumeof the sphere is",V)
+
+O/p
+
+valoumeof the sphere is 904.3199999999999

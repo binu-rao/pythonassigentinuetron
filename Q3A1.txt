@@ -1,0 +1,11 @@
+Q3:
+Sol:
+a = input("Enter user's first name :")
+b = input("Enter user's last name :")
+print(b+" "+a)
+
+O/P
+
+Enter user's first name :Nidhi
+Enter user's last name :Rao
+Rao Nidhi

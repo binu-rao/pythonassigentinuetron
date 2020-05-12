@@ -1,0 +1,12 @@
+Q1
+Sol
+a = input("Enter a sequence of number:")
+List = a.split(",")
+print(List)
+
+O/P
+
+
+Enter a sequence of number:1,2,3,4
+['1', '2', '3', '4']
+
